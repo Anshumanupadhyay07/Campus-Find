@@ -1,0 +1,2 @@
+id|type|name|category|description|location|date|contact|status
+1|LOST|wallet|etc|red|lost|2026-11-02|123|RETURNED
